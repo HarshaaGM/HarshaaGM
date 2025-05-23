@@ -1,5 +1,5 @@
 ## Hey, <a href="https://" target="_blank">Harshaa's here!</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-<h3 align="center">A passionate java developer from India</h3><br>
+<h3 align="center">A passionate Data Analyst from India</h3><br>
 <img align="right" alt ="coding" width="400" src="/assets/computing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aadhi&label=Profile%20views&color=0e75b6&style=flat" alt="m-aadhi" /> </p>
 
