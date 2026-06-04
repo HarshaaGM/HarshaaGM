@@ -7,7 +7,6 @@
 
 - 💬 I love **Java , Linux , Valorant.**
 
-- 📫 To reach me **[Connect.](https://www.linkedin.com/in/i-will-take-u-2-my-dp/)**<br>
                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
